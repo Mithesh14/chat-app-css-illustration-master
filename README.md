@@ -37,7 +37,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: <a href="https://github.com/Mithesh14/chat-app-css-illustration-master">Chat app CSS illustration</a>
-- Live Site URL: <a href="https://mithesh14.github.io/Social-media-dashboard-with-theme-switcher-master/">Chat app CSS illustration</a>
+- Live Site URL: <a href="https://mithesh14.github.io/chat-app-css-illustration-master/">Chat app CSS illustration</a>
 
 ## My process
 
